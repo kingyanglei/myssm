@@ -1,4 +1,4 @@
-package com.young.crud.bean;
+package com.young.model;
 
 public class Department {
     private Integer deptId;

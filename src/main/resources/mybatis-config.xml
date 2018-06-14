@@ -8,15 +8,15 @@
 	</settings>
 	
 	<typeAliases>
-		<package name="com.young.crud.bean"/>
+		<package name="com.young.model"/>
 	</typeAliases>
 	
-	<plugins>
+<!--	<plugins>
 		<plugin interceptor="com.github.pagehelper.PageInterceptor">
-			<!--分页参数合理化  -->
+			&lt;!&ndash;分页参数合理化  &ndash;&gt;
 			<property name="reasonable" value="true"/>
 		</plugin>
-	</plugins>
+	</plugins>-->
 
 </configuration>
 
